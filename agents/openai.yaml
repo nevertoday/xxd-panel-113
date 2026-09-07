@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 113"
+  short_description: "Shell-fragment Pixel Collage"
+  default_prompt: "Use $xxd-panel-113 to transform my photograph using the complete canonical source brief."
