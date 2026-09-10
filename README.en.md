@@ -28,6 +28,15 @@ For personal photography collections, independent publications, exhibition studi
 
 In the lower half, first understand the original photograph's most memorable **subject, basic composition, perspective relationships, structural direction, visual memory points and overall atmosphere**, then reconstruct it as a minimalist pixel landscape with a material-collage quality. Do not reproduce the photograph in full: remove irrelevant details and retain only the structures, directional flow and visual memory points that best represent the original. Reinterpret them through the order of regular squares and natural material textures so viewers can immediately recognise the relationship to the photograph above.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -37,14 +46,6 @@ The Chinese file preserves the user's original prompt verbatim and is the sole r
 ## Quick fit check
 
 Keep the source identity while redirecting composition; retain the material signature while actively leaving space. Choose exact text, generated copy or no text, with single-image or recursive directory processing and the four delivery modes below.
-
-## Transformation logic
-
-Read the subject and relationships → extract the original brief’s visual language → remove irrelevant detail → recompose scale, placement and whitespace → add minimal source-grounded copy → check geometry, text and finish
-
-## Recognisable finished traits
-
-The overall refined effect combines **natural-material collage, shell-textured pixels, regular geometric order, progressive dissolution, a small stamp-like subject, extensive artistic whitespace and modern editorial typography**. It should resemble a reconstruction poster from a contemporary material-art or design studio, not ordinary digital pixel art. Avoid reproducing the entire photograph, complex backgrounds, realistic detail, standard solid-colour blocks, smooth vectors, plastic mosaics, strong pearlescence, game-UI styling, filling the canvas, excessive text and template effects.
 
 ## Four output modes
 
