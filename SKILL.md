@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-113
-description: "Create XXD Panel 113 raster artwork from photographs using matte shell-fragment pixel collage: at most 200 similarly sized square modules, a clear grid, chipped natural layers, fading edges, a small stamp-like subject and abundant whitespace. Use when the user invokes xxd-panel-113 or requests this material style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 113｜Shell-fragment Pixel Collage: rebuilds the subject, layout and mood of a photo as a minimal pixel landscape made of no more than about 200 near-equal square fragments that look cut from rough shell, shell flakes or mineral layers — a clear geometric grid with slightly chipped edges, natural layering, chalky grain and matte, uneven colour, dense at the core and thinning, breaking and floating away at the edges into the space, the subject taking roughly a third of the area like a small material seal inside large warm white whitespace, bright clear colours lifted from the photo with sunny coral or gold accents, and a few quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-113 or asks for shell mosaic, natural-material pixel art or dissolving grid collage from a photo."
 ---
 
 # XXD Panel 113

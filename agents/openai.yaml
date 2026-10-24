@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 113"
-  short_description: "Shell-fragment Pixel Collage"
-  default_prompt: "Use $xxd-panel-113 to transform my photograph using the complete canonical source brief."
+  short_description: "贝壳像素留白志：用不到两百块贝壳方片拼出照片的主体，边缘渐渐散进大片留白"
+  default_prompt: "Use $xxd-panel-113 to turn my photo into Shell-fragment Pixel Collage artwork."

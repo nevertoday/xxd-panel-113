@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 113｜Shell-fragment Pixel Collage: rebuilds the subject, layout and mood of a photo as a minimal pixel landscape made of no more than about 200 near-equal square fragments that look cut from rough shell, shell flakes or mineral layers — a clear geometric grid with slightly chipped edges, natural layering, chalky grain and matte, uneven colour, dense at the core and thinning, breaking and floating away at the edges into the space, the subject taking roughly a third of the area like a small material seal inside large warm white whitespace, bright clear colours lifted from the photo with sunny coral or gold accents, and a few quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-113 or asks for shell mosaic, natural-material pixel art or dissolving grid collage from a photo.",
+  "short_description": "贝壳像素留白志：用不到两百块贝壳方片拼出照片的主体，边缘渐渐散进大片留白",
+  "zh-CN": {
+    "name": "贝壳像素留白志",
+    "tagline": "用不到两百块贝壳方片拼出照片的主体，让边缘慢慢散进留白里。",
+    "look": "画面像一幅极简的像素景观，但每个“像素”都是从粗粝贝壳或矿物壳层切下来的小方片，大小接近一致，边缘略有崩缺，表面有天然层理、粉质颗粒和不均匀的哑光色泽。方片排在清楚的几何网格上，主体中心密集，越往外越稀疏、断开、漂浮，渐渐消失在留白里，总数不超过约两百块。主体只占下半部分三到四成，像一枚放在大片暖白纸面上的材料章印。颜色取自照片最明亮的部分，如天空蓝、湖水青、嫩绿、暖黄，局部用珊瑚橙或金黄点亮。文字只有几个词，安静放在留白边上。",
+    "traits": ["贝壳方片", "几何网格", "边缘渐散", "明快取色", "小尺度章印", "大面积留白"],
+    "good": [
+      "构图简单、有大形和方向的风景：海岸线、一座山、一片湖、一条林荫路",
+      "轮廓明确的单个主体：灯塔、一棵树、一只海鸥、一艘帆船",
+      "色彩明亮、适合做成材料感艺术海报或壁纸的照片"
+    ],
+    "poor": [
+      "需要看清面孔、文字或精细结构的照片，两百块方片放不下这些细节",
+      "人多、物多、层次复杂的场景",
+      "想要标准马赛克、游戏像素画、强珠光或光滑数字色块的需求"
+    ]
+  },
+  "en": {
+    "name": "Shell-fragment Pixel Collage",
+    "tagline": "Builds the subject of a photo from fewer than two hundred shell tiles that slowly scatter into white space.",
+    "look": "It reads like a minimal pixel landscape, but each pixel is a small square cut from rough shell or mineral layers, nearly equal in size, with slightly chipped edges, natural layering, chalky grain and uneven matte colour. The tiles sit on a clear geometric grid, packed densely at the subject's core and growing sparser, broken and floating toward the edges until they fade into the space, about two hundred tiles at most. The subject fills only a third or so of the area, like a material seal laid on a wide field of warm white. Colours come from the brightest parts of the photo, such as sky blue, lake teal, fresh green and warm yellow, with coral or golden accents. Only a few words appear, placed quietly at the edge of the space.",
+    "traits": ["Shell tiles", "Geometric grid", "Dissolving edges", "Bright photo colours", "Small seal-like motif", "Wide whitespace"],
+    "good": [
+      "Simple landscapes with a big shape and direction: a coastline, a mountain, a lake, a tree-lined road",
+      "A single subject with a clear outline: a lighthouse, a tree, a gull, a sailing boat",
+      "Bright photos you want as a material-art poster or wallpaper"
+    ],
+    "poor": [
+      "Photos where faces, text or fine structure must be legible; two hundred tiles cannot hold that detail",
+      "Crowded scenes with many people, objects or layers",
+      "Requests for standard mosaic, game-style pixel art, strong pearly shine or smooth digital blocks"
+    ]
+  },
+  "ja": {
+    "name": "貝殻ピクセル・コラージュ",
+    "tagline": "二百枚に満たない貝殻の角片で写真の主役を組み、縁からゆっくり余白へ散らします。",
+    "look": "ミニマルなピクセル風景のように見えますが、ひとつひとつの「ピクセル」は粗い貝殻や鉱物の層から切り出した小さな角片です。大きさはほぼ揃い、縁は少し欠け、表面には自然の層、粉っぽい粒子、むらのあるマットな色があります。角片ははっきりした幾何学グリッドに並び、主役の中心は密に、外へ行くほどまばらになり、途切れ、浮かび、やがて余白に消えていきます。総数は多くて二百枚ほどです。主役は下半分の三〜四割ほどを占めるだけで、温かな白の広い紙面に置いた素材の印章のようです。色は写真のいちばん明るい部分から取り、空色、湖の青緑、若草色、暖かな黄などに、コーラルや金色を差します。文字は数語だけで、余白の端に静かに置かれます。",
+    "traits": ["貝殻の角片", "幾何学グリッド", "散っていく縁", "明るい写真の色", "小さな印章のような主役", "広い余白"],
+    "good": [
+      "大きな形と方向のあるシンプルな風景：海岸線、山、湖、並木道",
+      "輪郭のはっきりした主役ひとつ：灯台、一本の木、カモメ、ヨット",
+      "素材感のあるアートポスターや壁紙にしたい明るい写真"
+    ],
+    "poor": [
+      "顔や文字、細かな構造を読み取りたい写真（二百枚の角片ではその細部を表せません）",
+      "人や物が多く、重なりの複雑な場面",
+      "標準的なモザイク、ゲーム風のピクセルアート、強い真珠光沢、なめらかなデジタル色面を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "조개껍데기 픽셀 콜라주",
+    "tagline": "이백 개가 안 되는 조개껍데기 조각으로 사진의 주인공을 짓고, 가장자리부터 천천히 여백으로 흩어지게 합니다.",
+    "look": "미니멀한 픽셀 풍경처럼 보이지만, 각각의 '픽셀'은 거친 조개껍데기나 광물 층에서 잘라 낸 작은 네모 조각입니다. 크기는 거의 같고 가장자리는 살짝 이가 빠졌으며, 표면에는 자연스러운 층결, 가루 같은 입자, 고르지 않은 무광 색이 있습니다. 조각들은 또렷한 기하 격자에 놓여 주인공 중심에서는 촘촘하고, 바깥으로 갈수록 성기고 끊기고 떠다니다가 여백 속으로 사라집니다. 전체는 많아야 이백 개 정도입니다. 주인공은 아래쪽 화면의 3~4할 정도만 차지해, 넓고 따뜻한 흰 종이 위에 놓인 재료의 도장 같습니다. 색은 사진의 가장 밝은 부분에서 가져와 하늘색, 호수빛 청록, 연둣빛, 따뜻한 노랑에 코럴이나 금빛을 포인트로 더합니다. 글자는 몇 단어뿐이고 여백 가장자리에 조용히 놓입니다.",
+    "traits": ["조개껍데기 조각", "기하 격자", "흩어지는 가장자리", "밝은 사진 색", "작은 도장 같은 주인공", "넓은 여백"],
+    "good": [
+      "큰 형태와 방향이 있는 단순한 풍경: 해안선, 산, 호수, 가로수길",
+      "윤곽이 뚜렷한 주인공 하나: 등대, 나무 한 그루, 갈매기, 돛단배",
+      "재료감 있는 아트 포스터나 배경화면으로 쓰고 싶은 밝은 사진"
+    ],
+    "poor": [
+      "얼굴, 글자, 정밀한 구조를 읽을 수 있어야 하는 사진(이백 개 조각으로는 그 세부를 담을 수 없습니다)",
+      "사람과 물건이 많고 층위가 복잡한 장면",
+      "표준 모자이크, 게임풍 픽셀 아트, 강한 진주 광택, 매끈한 디지털 색면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج بكسلي من شظايا الصدف",
+    "tagline": "يبني عنصر الصورة من أقل من مئتي قطعة صدفية مربعة تتبعثر ببطء في الفراغ الأبيض.",
+    "look": "يبدو كمنظر بكسلي بسيط، لكن كل «بكسل» قطعة مربعة صغيرة مقطوعة من صدف خشن أو طبقات معدنية، متقاربة الحجم تقريباً، بحواف متثلمة قليلاً وطبقات طبيعية وحبيبات طباشيرية ولون مطفأ غير متجانس. تصطف القطع على شبكة هندسية واضحة، كثيفة في قلب العنصر، وتتخلخل نحو الأطراف فتنقطع وتطفو حتى تذوب في الفراغ، ولا يتجاوز عددها نحو مئتي قطعة. لا يشغل العنصر إلا قرابة ثلث المساحة، كختم من مادة طبيعية موضوع على حقل واسع من الأبيض الدافئ. تُؤخذ الألوان من أزهى أجزاء الصورة، كالأزرق السماوي والأخضر المزرق والأخضر الطري والأصفر الدافئ، مع لمسات مرجانية أو ذهبية. لا تظهر إلا كلمات قليلة، بهدوء عند حافة الفراغ.",
+    "traits": ["قطع صدفية", "شبكة هندسية", "حواف تتلاشى", "ألوان زاهية من الصورة", "عنصر صغير كالختم", "فراغ واسع"],
+    "good": [
+      "مناظر بسيطة ذات شكل كبير واتجاه واضح: خط ساحلي، جبل، بحيرة، طريق تحفه الأشجار",
+      "عنصر واحد بمحيط واضح: منارة، شجرة، نورس، مركب شراعي",
+      "صور زاهية تريدها ملصقاً فنياً بملمس المواد أو خلفية"
+    ],
+    "poor": [
+      "صور يجب أن تبقى فيها الوجوه أو النصوص أو البنى الدقيقة مقروءة، فمئتا قطعة لا تتسع لهذه التفاصيل",
+      "المشاهد المزدحمة بالناس أو الأشياء أو الطبقات",
+      "طلب فسيفساء تقليدية أو فن بكسل بأسلوب الألعاب أو لمعان لؤلؤي قوي أو كتل رقمية ناعمة"
+    ]
+  }
+}
